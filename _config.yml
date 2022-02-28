@@ -1,6 +1,13 @@
-title: Minimal theme
+title: <p align="center"> Sipra Rai </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://github.com/raisipra">GitHub</a>  
+  <br>   
+  I'm pursuing executive PG program in ML and AI from upgrad.
+  Also I am having 3.8 yrs of Industry experience as a Senior software engineer.
+  I have started my career from Infosys and worked there for 3.4 years.
+  <br>
+  </p>
 theme: jekyll-theme-minimal
